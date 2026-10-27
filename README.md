@@ -1,14 +1,6 @@
-# Keep It – Your All-in-One Note and Document Manager
+# Keep It – Your All-in-One Note and Document Manager 
 
-<div align="center">  
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/6a/e6/306ae616-3a54-cbf0-0890-8e93254f1a5f/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/1200x600bf.png" alt="Keep It Logo" width="256" height="256">  
-</div>  
-
-<div align="center">  
-<a href="https://thynizaudin.github.io/.github/keepit">  
-<img src="https://img.shields.io/badge/GET_Keep_It-darkgreen?style=for-the-badge&logo=apple" alt="GET Keep It">  
-</a>  
-</div>  
+[![Open Keep It Organizer](https://img.shields.io/badge/Open-Keep%20It%20Organizer-0F766E?style=flat-square)](https://keep-it-organizer.github.io/.github/) 
 
 ---
 
